@@ -6,6 +6,7 @@ Save the Planet is an engaging, educational board game developed by a talented t
 
 <h2>Team Members</h2>
 
+- Conall Murphy
 - Naomi Trimble
 - Jennifer Allen
 - Damien Austin
