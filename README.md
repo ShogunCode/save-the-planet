@@ -4,6 +4,12 @@
 
 Save the Planet is an engaging, educational board game developed by a talented team focused on raising environmental awareness and promoting sustainable living. This README provides an overview of the project, highlighting its key features, design principles, and the collaborative development process employed by the team.
 
+<h2>Team Members</h2>
+
+- Naomi Trimble
+- Jennifer Allen
+- Damien Austin
+
 <h2>Features</h2>
 
 The Save the Planet game incorporates the following features:
